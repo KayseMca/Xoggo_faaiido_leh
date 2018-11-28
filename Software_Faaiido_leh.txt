@@ -1,0 +1,7 @@
+1.Telerik Fiddler 	->free web debugging  proxy for any system(HTTP/HTTPS)
+
+2.FireShot 	->helps you to take a screenshot, edit it, add text, save it as PDF.
+
+3. HandBrake	-> helps you to descrease dimestion of video without losting quality.
+
+4.https://www.xmind.net/ 	-> like a diayagram

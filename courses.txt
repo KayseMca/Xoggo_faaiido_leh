@@ -1,0 +1,6 @@
+JavaScript
+ 1.https://www.udemy.com/js-algorithms-and-data-structures-masterclass/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-vhDfp8cqY1H4zPg3fO.MoQ&siteID=JVFxdTr9V80-vhDfp8cqY1H4zPg3fO.MoQ&LSNPUBID=JVFxdTr9V80 	-> Data Structure
+
+
+Python
+ 1.https://www.udemy.com/algorithms-and-data-structures-in-python/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-gd56gUHqfI.PBZGPXvY8Zg&siteID=JVFxdTr9V80-gd56gUHqfI.PBZGPXvY8Zg&LSNPUBID=JVFxdTr9V80 	->Data Structure
